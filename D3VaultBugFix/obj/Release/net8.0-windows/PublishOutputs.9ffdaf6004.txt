@@ -1,0 +1,5 @@
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\publish\D3VaultBugFix.exe
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\publish\D3VaultBugFix.dll
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\publish\D3VaultBugFix.deps.json
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\publish\D3VaultBugFix.runtimeconfig.json
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\publish\D3VaultBugFix.pdb

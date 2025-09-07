@@ -1,0 +1,16 @@
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\D3VaultBugFix.exe
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\D3VaultBugFix.deps.json
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\D3VaultBugFix.runtimeconfig.json
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\D3VaultBugFix.dll
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\bin\Release\net8.0-windows\D3VaultBugFix.pdb
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.BugFixForm.resources
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.vbproj.GenerateResource.cache
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.AssemblyInfoInputs.cache
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.AssemblyInfo.vb
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.vbproj.CoreCompileInputs.cache
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.dll
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\refint\D3VaultBugFix.dll
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.pdb
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\D3VaultBugFix.genruntimeconfig.cache
+C:\Users\Justi\source\repos\D3VaultBugFix\D3VaultBugFix\obj\Release\net8.0-windows\ref\D3VaultBugFix.dll
