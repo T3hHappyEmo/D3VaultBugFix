@@ -5,6 +5,8 @@ Fixes a save file for Danganronpa V3, forcing the Chapter 6 Vault open.
 !!! USE AT YOUR OWN DISCRETION AND MAKE AN ADDITIONAL COPY OF YOUR SAVE FILE AS A BACKUP !!!
 !!! THIS HAS ONLY BEEN PERSONALLY VERIFIED ON ONE DEVICE !!!
 
+The script can be ran from the "D3VaultBugFix" file in the "PublishedApplication" folder.
+
 I was able to complete the game after running this script on my own save file to bypass the stuck puzzle.
 The vault still visually appeared to be closed BUT registered as open upon tapping it, allowing me to continue.
 
@@ -18,3 +20,5 @@ The save file should look like "SAVE-DATA00", with the number indicating the sav
 Due to file permissions on most mobile devices, it is recommended to copy the save file to a location on the computer running the script first.
 Then after running the script to fix the save, copy the save file back.
 You may need to delete the original file out before copying back, instead of "replacing" it.
+
+If all else fails, an already fixed save file has been included in the "D3VaultBugFix" folder, but copying that over will overwrite personal progress in the save slot.
